@@ -2,8 +2,8 @@
 
 ## Completed By
 
-{{YOUR NAME}}
+Karlova Lesia
 
 ## Video Demo
 
-![](LINK_TO_VIDEO)
+https://drive.google.com/drive/folders/1gmBPkSHYb4H0SN0SsAO3L-bGL1wnN6TI
